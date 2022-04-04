@@ -19,6 +19,6 @@ while(cap.isOpened()):
         print("Current Time Of Same Pics =", current_time)
     else:
         break
-
+iuhoiuhkujlkj
 
 cap.release()
